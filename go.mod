@@ -1,3 +1,3 @@
-module github.com/decred/base58
+module github.com/hdfchain/base58
 
-require github.com/decred/dcrd/crypto/blake256 v1.0.0
+require github.com/hdfchain/hdfd/crypto/blake256 v1.0.0
